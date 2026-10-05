@@ -1,0 +1,11 @@
+{
+  "title": "SenopatiSkinCenter",
+  "description": "A premium dermatology clinic website offering detailed doctor profiles, appointment scheduling, educational articles, and patient testimonials in a refined, responsive design.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
